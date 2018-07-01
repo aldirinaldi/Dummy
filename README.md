@@ -1,2 +1,2 @@
-# cat
-just ordinary student
+# Aldi Rinaldi
+BSI Student | NIM : 16170003
